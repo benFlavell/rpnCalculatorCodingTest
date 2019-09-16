@@ -14,4 +14,4 @@ Navigate to /out/ in the command line and run the command
 
 \<command> is the calculation you want to enter, ie. `10 4 +`
 
-*Note - From the command line the multiplication symbol \* should be placed in quotation marks to be interpreted properly ie. `10 4 "\*"`*
+*Note - From the command line the multiplication symbol \* should be placed in quotation marks to be interpreted properly ie. `10 4 "*"`*
